@@ -1,6 +1,6 @@
 # ml-2dshapes
 
-This Repository contains notebooks from the blog titled "Recognizing Geometric Shapes in 2-D Space Using Machine Learning"
+This repository contains notebooks from the blog titled "Recognizing Geometric Shapes in 2-D Space Using Machine Learning"
 
 <ul> There are two notebooks:
 <li> <b> Conic_Shapes_Generator.ipynb </b> - This notebook contains code to generate the dataset of conic curves.
